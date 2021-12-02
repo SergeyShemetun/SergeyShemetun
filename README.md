@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Sergey and I'm an arising software engineer.
 
